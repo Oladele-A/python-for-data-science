@@ -25,3 +25,19 @@ Python | Jupyter Notebook | NumPy | Pandas | Matplotlib | Seaborn | Statsmodel |
 
 ## Repository Development
 This repository is a continuous work in progress. I will continuously add notebooks, document useful concepts, experiment with analytical techniques, and refine existing work as my knowledge develops.
+
+## Applications in Energy Markets
+
+I intend to apply these skills to practical energy-market challenges, including:
+
+- Electricity price and renewable generation forecasting.
+
+- Time-series analysis of energy market data.
+
+- Electricity market modelling and optimisation.
+
+- Economic dispatch and unit commitment.
+
+- Data-driven market analysis and decision-making.
+
+- Market Fundamentals modeling
