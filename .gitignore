@@ -10,3 +10,5 @@ Data/
 Optimisation/
 Time Series Analysis/
 Linear Regression/final_sales_model.joblib
+Linear Regression/final_poly_converter.joblib
+Linear Regression/final_poly_model.joblib
